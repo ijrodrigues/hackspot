@@ -9,4 +9,4 @@ Por algum motivo o Microsoft Teams (quando está em execução) insiste mutar o 
 
 3 - antes de executar, o spotify precisa estar aberto;
 
-3 - execute o script com "./hackspot.sh"
+4 - execute o script com "./hackspot.sh"
